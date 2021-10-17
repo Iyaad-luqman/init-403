@@ -2,7 +2,7 @@
 - A tool for bypassing 403
 - It can also be used to compare responses on verious conditions as shown in the below snap
 - Can be used for bypassing admin page, etc. 
-![image](https://user-images.githubusercontent.com/86549899/137630702-52435846-2dfc-4572-b5af-a3ee54201e73.png)
+![image](https://user-images.githubusercontent.com/86549899/137630836-a5fdbbae-c0ba-438c-b407-377f9c7fb276.png)
 
 
 # Usage
